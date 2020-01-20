@@ -10,5 +10,5 @@ import (
 func BlogGet(c *gin.Context) {
 	c.JSON(http.StatusOK, map[string]string{
 		"message": "pong",
-	})
+	})	
 }
