@@ -1,2 +1,2 @@
 # portfolio
-Webapp Portfolio project. Written in Go and JavaScript.
+Webapp Portfolio project.
